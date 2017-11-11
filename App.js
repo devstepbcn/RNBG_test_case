@@ -24,6 +24,7 @@ export default class App extends Component<{}> {
       enabled: false
     }
   }
+  
   componentDidMount() {
     bgGeo.configure({debug: true}, (state) => {
       this.setState({
