@@ -1,6 +1,6 @@
 # INSTALLATION INSTRUCTIONS
 
-1. git clone https://github.com/hernanmateo/RNBG_test_case.git
+1. git clone https://github.com/devstepbcn/RNBG_test_case.git
 2. cd RNBG_test_case
 3. npm i
 4. react-native run-ios --configuration Release  (I think the error happens more often in release mode)
