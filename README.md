@@ -11,7 +11,7 @@ NOTE: Sometimes it takes a little longer and others less. Sometimes the applicat
 This is all the app code:
 
 ```js
-/**
+//**
  * Sample React Native App
  * https://github.com/facebook/react-native
  * @flow
@@ -97,10 +97,6 @@ const styles = StyleSheet.create({
     textAlign: 'center',
     margin: 10,
   },
-  instructions: {
-    textAlign: 'center',
-    color: '#333333',
-    marginBottom: 5,
-  },
 });
+
 ```
